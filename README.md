@@ -1,5 +1,9 @@
 # Label Studio 中文界面补丁
 
+***Author：hhao***
+
+***联系作者：hao1027767860\@163.com***
+
 这是一套适用于 Label Studio 的中文界面补丁。
 
 它支持：
@@ -289,4 +293,3 @@ python3 install_label_studio_zh_cn.py /path/to/site-packages/label_studio
 
 改完后再重新执行安装器即可。
 
-**联系作者**：*hao1027767860\@163.com*
