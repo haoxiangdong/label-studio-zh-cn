@@ -6,6 +6,7 @@
 
 这是一套适用于 Label Studio 的中文界面补丁。
 <img width="733" height="388" alt="image" src="https://github.com/user-attachments/assets/877a05b9-428b-4424-a85d-c7d18d1fe53a" />
+
 它支持：
 
 - Windows
